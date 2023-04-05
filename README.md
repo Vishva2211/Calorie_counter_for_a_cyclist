@@ -1,1 +1,2 @@
 # Calorie_counter_for_a_cyclist
+In this project, a digital circuit is made from scratch using logic gates that get the number of rotations that the cycle wheel makes and the weight of the person riding as inputs and gives the calories burnt for each rotation that the wheel makes as output. This uses the concept of multiplication of binary numbers and the “shift and add three” algorithm to convert binary numbers to BCD numbers
